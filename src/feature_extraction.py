@@ -17,7 +17,7 @@ Args:
 Returns:
     _type_: _description_
 """
-class FrameRegistration:
+class FeatureExtraction:
     def __init__(
         self,
         radar_data_old: RadarData,
